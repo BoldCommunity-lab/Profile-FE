@@ -1,7 +1,7 @@
 import { GalleryItem, TeamMember } from "./types";
 
 export const LOGO_URL =
-  "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/E6316896-2111-483D-A647-FF47B35566CA.jpg";
+  "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Logo/refs/heads/main/E6316896-2111-483D-A647-FF47B35566CA.jpg";
 export const PRESIDENT_PHOTO_URL =
   "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1757947789499.png";
 
@@ -45,28 +45,31 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
   },
   {
-    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
-    caption: "BOLD Community 🔥",
-    date: "2025-09-21",
-    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/Recap8.png",
+    caption: "Macan macan nya BOLD Community, rawrr 🐯🔥",
+    date: "2025-09-25",
+    description: "Foto unik, keseruan member BOLD Community saat main bareng.",
   },
   {
-    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
-    caption: "BOLD Community 🔥",
-    date: "2025-09-21",
-    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/Recap5.png",
+    caption: "Selalu menyempatkan waktu untuk kumpul bareng🔥",
+    date: "2025-09-27",
+    description:
+      "BOLD Community tidak memandang apapun avatar yang kalian gunakan, ownernya cinta sama ava kotak 🤭.",
   },
   {
-    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
-    caption: "BOLD Community 🔥",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/Recap3.png",
+    caption: "Friendly Community",
     date: "2025-09-21",
-    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+    description:
+      "BOLD Community selalu welcome kepada semua player roblox, tidak membeda bedakan baik dari komunitas lain ataupun non komunitas 😉.",
   },
   {
-    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
-    caption: "BOLD Community 🔥",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/Recap2.png",
+    caption: "(BOLD DAY) Naik Gunung Bareng",
     date: "2025-09-21",
-    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+    description:
+      "BOLD Community akan selalu mengadakan event untuk berkumpul, di map manapun yaitu BOLD DAY.",
   },
 ];
 
