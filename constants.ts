@@ -1,0 +1,93 @@
+import { GalleryItem, TeamMember } from "./types";
+
+export const LOGO_URL =
+  "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/E6316896-2111-483D-A647-FF47B35566CA.jpg";
+export const PRESIDENT_PHOTO_URL =
+  "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1757947789499.png";
+
+export const DISCORD_LINK = "https://discord.gg/CEttdYkAHu";
+export const TIKTOK_LINK = "https://www.tiktok.com/@bold.community";
+
+export const NAV_LINKS = [
+  { name: "Home", href: "#home" },
+  { name: "About", href: "#about" },
+  { name: "Gallery", href: "#gallery" },
+  { name: "Structure", href: "#structure" },
+  { name: "Join", href: "#join" },
+];
+
+export const GALLERY_ITEMS: GalleryItem[] = [
+  {
+    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1756660685271.png",
+    caption: "Event mingguan BOLD DAY",
+    date: "2025-09-06",
+    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1756662137640.png",
+    caption: "Event mingguan BOLD DAY",
+    date: "2025-09-13",
+    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1756387857648.png",
+    caption: "Etmin etmin tampan",
+    date: "2025-08-31",
+    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/Roblox_21_09_2025_23_02_18.png",
+    caption: "Undangan dari NIX Community",
+    date: "2025-09-21",
+    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+  },
+];
+
+export const TEAM_STRUCTURE: TeamMember[] = [
+  {
+    role: "President",
+    name: "BOLD_OWNx1stKimm",
+    img: PRESIDENT_PHOTO_URL,
+  },
+  {
+    role: "Vice President",
+    name: "BOLD_VPx7Gerald",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/IMG_9405%20(2).png",
+  },
+  {
+    role: "Vice President",
+    name: "BOLD_VPx6a6ypow",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Pow.jpg",
+  },
+
+  {
+    role: "Admin",
+    name: "BOLD_ADMNxVell",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
+  },
+  {
+    role: "Admin",
+    name: "BOLD_ADMNxMurphy",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Edo.png",
+  },
+  {
+    role: "Leader",
+    name: "BOLD_LEADxJustBmine",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/ACEL.jpg",
+  },
+  {
+    role: "Guard",
+    name: "BOLD_GUARDxBURONNN",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Quality%20Restoration-Ultra%20HD-Buron.jpeg",
+  },
+  {
+    role: "Guard",
+    name: "BOLD_GUARDxMOX1",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Quality%20Restoration-Ultra%20HD-moxi.jpeg",
+  },
+  {
+    role: "Guard",
+    name: "BOLD_GUARDxBerttt",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/BERT.png",
+  },
+];
