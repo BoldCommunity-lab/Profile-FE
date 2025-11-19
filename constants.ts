@@ -82,12 +82,22 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   {
     role: "Vice President",
     name: "BOLD_VPx7Arthurr",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/IMG_9405%20(2).png",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Cal.png",
   },
   {
     role: "Vice President",
     name: "BOLD_VPx6a6ypow",
     img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Pow.jpg",
+  },
+  {
+    role: "Vice President",
+    name: "BOLD_VPxPrinceL",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Cal.png",
+  },
+  {
+    role: "Leader",
+    name: "BOLD_LEADxZAN",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/ACEL.jpg",
   },
   {
     role: "Admin",
@@ -100,22 +110,10 @@ export const TEAM_STRUCTURE: TeamMember[] = [
     name: "BOLD_ADMNxChiii",
     img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Cici.png",
   },
-
   {
     role: "Admin",
-    name: "BOLD_ADMNxVell",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
-  },
-
-  {
-    role: "Admin",
-    name: "BOLD_ADMNxVell",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
-  },
-  {
-    role: "Leader",
-    name: "BOLD_LEADxZAN",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/ACEL.jpg",
+    name: "BOLD_ADMNxBill",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Bil.png",
   },
   {
     role: "Guard",
@@ -124,12 +122,12 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   },
   {
     role: "Guard",
-    name: "BOLD_GUARDxMOX1",
+    name: "BOLD_GUARDxRay",
     img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Quality%20Restoration-Ultra%20HD-moxi.jpeg",
   },
   {
     role: "Guard",
-    name: "BOLD_GUARDxBerttt",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/BERT.png",
+    name: "BOLD_GUARDxRORO",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Roro.png",
   },
 ];
