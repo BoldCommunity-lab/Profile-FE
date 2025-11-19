@@ -91,11 +91,6 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   },
   {
     role: "Admin",
-    name: "BOLD_ADMNxVell",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
-  },
-  {
-    role: "Admin",
     name: "BOLD_ADMNxEdhoVHL",
     img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Edo.png",
   },
@@ -103,7 +98,7 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   {
     role: "Admin",
     name: "BOLD_ADMNxChiii",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Cici.png",
   },
 
   {
