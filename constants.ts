@@ -81,7 +81,7 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   },
   {
     role: "Vice President",
-    name: "BOLD_VPx7Gerald",
+    name: "BOLD_VPx7Arthurr",
     img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/IMG_9405%20(2).png",
   },
   {
@@ -89,7 +89,6 @@ export const TEAM_STRUCTURE: TeamMember[] = [
     name: "BOLD_VPx6a6ypow",
     img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Pow.jpg",
   },
-
   {
     role: "Admin",
     name: "BOLD_ADMNxVell",
@@ -100,9 +99,27 @@ export const TEAM_STRUCTURE: TeamMember[] = [
     name: "BOLD_ADMNxEdhoVHL",
     img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Edo.png",
   },
+
+  {
+    role: "Admin",
+    name: "BOLD_ADMNxChiii",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
+  },
+
+  {
+    role: "Admin",
+    name: "BOLD_ADMNxVell",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
+  },
+
+  {
+    role: "Admin",
+    name: "BOLD_ADMNxVell",
+    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Vel.png",
+  },
   {
     role: "Leader",
-    name: "BOLD_LEADxJustBmine",
+    name: "BOLD_LEADxZAN",
     img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/ACEL.jpg",
   },
   {
