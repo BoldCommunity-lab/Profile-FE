@@ -25,22 +25,48 @@ export const GALLERY_ITEMS: GalleryItem[] = [
       "Terima kasih NIX atas undangannya! BOLD Community hadir dan meramaikan event dengan vibes positif, foto bareng, dan aktivitas seru lainnya. Semoga ke depan bisa terus kolaborasi dan bikin event yang lebih besar lagi!",
   },
   {
-    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1756662137640.png",
-    caption: "Event mingguan BOLD DAY",
-    date: "2025-09-13",
-    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/Recap10.jpeg",
+    caption: "EVENT BOLD DAY PERTAMA",
+    date: "2025-08-13",
+    description:
+      "BOLD DAY adalah momen spesial di mana seluruh member BOLD berkumpul dalam satu map untuk bermain, bersosialisasi, dan mempererat kekompakan komunitas. Terima kasih untuk semua yang hadir dan membuat event ini penuh energi dan kebersamaan!.",
   },
   {
-    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/8515744106_109823415860116_1756387857648.png",
-    caption: "Etmin etmin tampan",
-    date: "2025-08-31",
-    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap22.png",
+    caption: "BOLD Community x NEXT x SICK x 808",
+    date: "2025-09-31",
+    description:
+      "Kolaborasi besar antara BOLD Community x NEXT x SICK x 808 sukses menyatukan empat komunitas dalam satu event penuh energi. Ajang ini jadi ruang untuk bermain bersama, bersosialisasi, dan mempererat hubungan antar komunitas. Terima kasih untuk semua yang hadir dan membawa vibes positif — semakin ramai, semakin solid!.",
   },
   {
-    url: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/Roblox_21_09_2025_23_02_18.png",
-    caption: "Undangan dari NIX Community",
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
+    caption: "BOLD Community 🔥",
     date: "2025-09-21",
-    description: "Kegiatan seru bareng komunitas BOLD di event mingguan.",
+    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
+    caption: "BOLD Community 🔥",
+    date: "2025-09-21",
+    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
+    caption: "BOLD Community 🔥",
+    date: "2025-09-21",
+    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
+    caption: "BOLD Community 🔥",
+    date: "2025-09-21",
+    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
+  },
+  {
+    url: "https://raw.githubusercontent.com/BoldCommunity-lab/BOLD-Activity-Image/refs/heads/main/recap21.png",
+    caption: "BOLD Community 🔥",
+    date: "2025-09-21",
+    description: "Foto collabs BOLD x NEXT x SICK x 808, Menyala Orange 🔥🔥.",
   },
 ];
 
