@@ -97,7 +97,7 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   {
     role: "Leader",
     name: "BOLD_LEADxZAN",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-BOLD/refs/heads/main/ACEL.jpg",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Zan.png",
   },
   {
     role: "Admin",
