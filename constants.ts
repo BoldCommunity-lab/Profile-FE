@@ -76,35 +76,19 @@ export const GALLERY_ITEMS: GalleryItem[] = [
 export const TEAM_STRUCTURE: TeamMember[] = [
   {
     role: "President",
-    name: "BOLD_OWNx1stKimm",
-    img: PRESIDENT_PHOTO_URL,
+    name: "1stKimmm_BOLD",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Quality%20Restoration-Ultra%20HD-Giu2.jpeg",
   },
   {
     role: "Vice President",
-    name: "BOLD_VPx7Arthurr",
-    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Cal.png",
-  },
-  {
-    role: "Vice President",
-    name: "BOLD_VPx6a6ypow",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Pow.jpg",
-  },
-  {
-    role: "Vice President",
-    name: "BOLD_VPxPrinceL",
-    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Cal.png",
+    name: "Acheel_BOLD",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4QgbfLdmeJgJCcKzif2TFqIVKCW5DPnjaQ&s",
   },
   {
     role: "Leader",
-    name: "BOLD_LEADxZAN",
+    name: "ZAN_BOLD",
     img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Zan.png",
   },
-  {
-    role: "Admin",
-    name: "BOLD_ADMNxEdhoVHL",
-    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Edo.png",
-  },
-
   {
     role: "Admin",
     name: "BOLD_ADMNxChiii",
@@ -112,22 +96,27 @@ export const TEAM_STRUCTURE: TeamMember[] = [
   },
   {
     role: "Admin",
-    name: "BOLD_ADMNxBill",
+    name: "Biwabil_BOLD",
     img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Bil.png",
   },
   {
-    role: "Guard",
-    name: "BOLD_GUARDxBURONNN",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Quality%20Restoration-Ultra%20HD-Buron.jpeg",
+    role: "Admin",
+    name: "Mellon_BOLD",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Melon2.png",
+  },
+  {
+    role: "Admin",
+    name: "Rayy_BOLD",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4QgbfLdmeJgJCcKzif2TFqIVKCW5DPnjaQ&s",
   },
   {
     role: "Guard",
-    name: "BOLD_GUARDxRay",
-    img: "https://raw.githubusercontent.com/Hakimmmmm393/Picture-Only/refs/heads/main/Quality%20Restoration-Ultra%20HD-moxi.jpeg",
+    name: "BulMaca_BOLD",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Bulon2.png",
   },
   {
     role: "Guard",
-    name: "BOLD_GUARDxRORO",
-    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Roro.png",
+    name: "Vell_BOLD",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Vell2.png",
   },
 ];
