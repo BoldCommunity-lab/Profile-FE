@@ -124,4 +124,9 @@ export const TEAM_STRUCTURE: TeamMember[] = [
     name: "Sky_BOLD",
     img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/Sekay.png",
   },
+  {
+    role: "Guard",
+    name: "Abdilll_BOLD",
+    img: "https://raw.githubusercontent.com/BoldCommunity-lab/Staff-Foto/refs/heads/main/syad.jpg",
+  },
 ];
